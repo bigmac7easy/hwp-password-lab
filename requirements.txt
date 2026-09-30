@@ -1,0 +1,4 @@
+olefile==0.47
+
+# pycryptodome: AES, SHA, PBKDF2 등 저수준(low-level) 암호화 및 해시 연산을 지원하는 파이썬 암호학 패키지
+pycryptodome==3.23.0
